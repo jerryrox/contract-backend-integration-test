@@ -1,0 +1,6 @@
+.env
+.secret
+.DS_Store
+node_modules
+addresses.txt
+build
